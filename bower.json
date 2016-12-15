@@ -1,0 +1,21 @@
+{
+  "name": "bulletscreen",
+  "description": "",
+  "main": "",
+  "authors": [
+    "sven.li <icytornado@163.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "comment-core-library": "^0.9.3"
+  }
+}

@@ -1,2 +1,6 @@
-# bullet-screen
-实时弹幕系统
+# 实时弹幕系统
+## Installing
+```
+npm install
+bower install
+```
