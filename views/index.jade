@@ -12,6 +12,8 @@ html
   body
     #my-player.abp(style='width:70%; height:600px; background:#000;float:left')
       #my-comment-stage.container
+        video(style='height:600px;width:1108px' controls poster='https://archive.org/download/WebmVp8Vorbis/webmvp8.gif')
+          source(src="https://archive.org/download/WebmVp8Vorbis/webmvp8.webm" type="video/webm")
     #my-comment.abp(style='width:30%; height:600px;float:right')
       div#my-page(data-role='page')
         div(data-role='content')
